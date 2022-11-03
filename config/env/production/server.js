@@ -1,3 +1,3 @@
 module.exports = ({ env }) => ({
-  url: env('https://git.heroku.com/tradesmith-parabolic-demo.git'),
+  url: env('MY_HEROKU_URL'),
 });
